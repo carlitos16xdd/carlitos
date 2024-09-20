@@ -49,13 +49,13 @@ h1, h2, h3 {
   left: -70px;
 }
 .ms--images .ms-slide:nth-child(1) .ms-slide__image {
-  background-image: url("/img/fondo1.jpeg");
+  background-image: url("fondo1.jpeg");
 }
 .ms--images .ms-slide:nth-child(2) .ms-slide__image {
-  background-image: url("/img/siguiente-partido.jpg");
+  background-image: url("/siguiente-partido.jpg");
 }
 .ms--images .ms-slide:nth-child(3) .ms-slide__image {
-  background-image: url("/img/dts.jpg");
+  background-image: url("img/dts.jpg");
 }
 .ms--images .ms-slide:nth-child(4) .ms-slide__image {
   background-image: url("/img/categoria.jpg");
